@@ -1,16 +1,10 @@
 # Skill Assisessment-Handwritten Digit Recognition using MLP
-
 ## AIM:
-
-To Recognize the Handwritten Digits using Multilayer perceptron.
-       
+To Recognize the Handwritten Digits using Multilayer perceptron.   
 ##  EQUIPMENTS REQUIRED:
-
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
-
 ## THEORY:
-
 Handwriting recognition is the ability of a computer to receive and interpret intelligible handwritten input from sources such as paper documents, photographs, touch-screens, and other devices. There are many techniques to that have been developed to recognize the handwriting. One of them is Handwritten Digit Recognition. In this project, we would be using Machine Learning classifier Multi-layer Perceptron Neural Network.
 
 An MLP is a supervised machine learning (ML) algorithm that belongs in the class of feedforward artificial neural networks. The algorithm essentially is trained on the data in order to learn a function. Given a set of features and a target variable (e.g. labels) it learns a non-linear function for either classification or regression.
@@ -34,10 +28,6 @@ Step 5:To find the weights for the edges to the 1-output unit. Weights associate
 Step 6:End the program.
 
 ## PROGRAM:
-```
-### Developed by : M.Pavithra
-### Reg.No : 212222100032
-```
 ```
 Program to Recognize the Handwritten Digits using Multilayer perceptron (MLP).
 
