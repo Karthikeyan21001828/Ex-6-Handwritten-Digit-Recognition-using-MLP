@@ -2,7 +2,7 @@
 
 ## AIM:
 
-       To Recognize the Handwritten Digits using Multilayer perceptron.
+To Recognize the Handwritten Digits using Multilayer perceptron.
        
 ##  EQUIPMENTS REQUIRED:
 
